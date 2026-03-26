@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+mlflow
+
+Note: Apart from this you might have to import all page file in main EmiFile.
